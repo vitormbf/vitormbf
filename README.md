@@ -1,6 +1,6 @@
 ### About me
 
-Quantitative community ecologist (PhD) applying data science and statistical modeling to analyze complex datasets.
+Quantitative Community Ecologist applying data science and statistical modeling to analyze complex datasets.
 
 ### Analytical Methods
 
