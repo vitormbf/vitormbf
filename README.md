@@ -1,16 +1,19 @@
-## Hi there 👋
+### About me
 
-<!--
-**vitormbf/vitormbf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quantitative community ecologist (PhD) applying data science and statistical modeling to analyze complex datasets.
 
-Here are some ideas to get you started:
+### Analytical Methods
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Exploratory Data Analysis (EDA)
+* Statistical modeling
+* Regression analysis
+* Mixed-effects models
+* Multivariate analysis
+* Time-series analysis
+* Data visualization
+* Model validation
+
+### Programming
+
+* R (advanced)
+* Python (working knowledge)
