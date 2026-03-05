@@ -15,5 +15,6 @@ Quantitative community ecologist (PhD) applying data science and statistical mod
 
 ### Programming
 
+* SQL
 * R (advanced)
 * Python (working knowledge)
