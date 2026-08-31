@@ -15,6 +15,5 @@ Quantitative Community Ecologist applying data science and statistical modeling 
 
 ### Programming
 
-* SQL
 * R (advanced)
-* Python (working knowledge)
+  
